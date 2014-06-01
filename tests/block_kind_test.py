@@ -9,5 +9,6 @@ class BlockKindTest(unittest.TestCase):
         self.assertEqual(BlockKind('yellow'), BlockKind('yellow'))
         self.assertNotEqual(BlockKind('yellow'), BlockKind('green'))
 
+
 if __name__ == '__main__':
     unittest.main()
