@@ -1,7 +1,7 @@
-Judy
+Candy Crush 2048
 ====
 
-Judy is an interactive game that could be played through a GUI or a CLI. The GUI uses both keyboard and mouse. The game's main purpose is to destroy the blocks in the 2D field by clicking on them. If the clicked block is a part of a group of at least three neighbouring blocks of the same kind, the whole group will disappear.
+Candy Crush 2048 is an interactive game that could be played through a GUI or a CLI. The GUI uses both keyboard and mouse. The game's main purpose is to destroy the blocks in the 2D field by clicking on them. If the clicked block is a part of a group of at least three neighbouring blocks of the same kind, the whole group will disappear.
 
 When you destroy blocks, the remaining blocks won't move. But when you tilt the board using the arrow keys, they will move in the desired direction.
 
